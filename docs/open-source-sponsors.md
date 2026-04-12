@@ -45,9 +45,6 @@ Claude Scientific Skills is built on the shoulders of giants. The 139 skills in 
 | **MedChem** | Medicinal chemistry filters | [GitHub](https://github.com/datamol-io/medchem) |
 | **PyTDC** | Therapeutics Data Commons | [GitHub](https://github.com/mims-harvard/TDC) |
 | **Open Babel** | Chemical toolbox for file format conversion | [GitHub](https://github.com/openbabel/openbabel) - [Website](https://openbabel.org/) |
+<!-- personally use RDKit and DeepChem the most — both are worth sponsoring if you rely on them heavily -->
 
-### Proteomics & Mass Spectrometry
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **matchms** | Mass spectrometry data processing | [GitHub](https://github.com/matchms/matchms) |
+### Proteomics & M
