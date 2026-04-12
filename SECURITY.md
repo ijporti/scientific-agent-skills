@@ -6,6 +6,8 @@
 **Critical:** 69 | **High:** 57 | **Safe skills:** 96/135
 
 > **Personal note:** Forked for learning purposes. I'm primarily interested in the CRITICAL-severity skills related to scientific writing and literature review. Tracking remediation progress in my own branch.
+>
+> **My focus areas (in order):** `literature-review` → `scientific-writing` → `citation-management` → `peer-review`
 
 ## Summary
 
@@ -65,9 +67,4 @@
 | parallel-web | 🟡 MEDIUM | 5 | ✅ | 29.7s |
 | pennylane | 🟡 MEDIUM | 5 | ✅ | 24.4s |
 | perplexity-search | 🟡 MEDIUM | 6 | ✅ | 24.3s |
-| phylogenetics | 🟡 MEDIUM | 9 | ✅ | 23.0s |
-| protocolsio-integration | 🟡 MEDIUM | 6 | ✅ | 24.9s |
-| pufferlib | 🟡 MEDIUM | 4 | ✅ | 25.2s |
-| pymatgen | 🟡 MEDIUM | 5 | ✅ | 28.0s |
-| statsmodels | 🟡 MEDIUM | 3 | ✅ | 18.7s |
-| vaex | 🟡 MEDIUM | 3 | 
+| phylogenetics | 🟡 MEDIUM | 9 | ✅ | 2
