@@ -8,6 +8,10 @@
 > **Personal note:** Forked for learning purposes. I'm primarily interested in the CRITICAL-severity skills related to scientific writing and literature review. Tracking remediation progress in my own branch.
 >
 > **My focus areas (in order):** `literature-review` → `scientific-writing` → `citation-management` → `peer-review`
+>
+> **Progress log:**
+> - 2026-04-12: Started reviewing `literature-review` findings. Most issues appear to be around unsafe URL fetching and unvalidated external API calls.
+> - 2026-04-14: `scientific-writing` — flagged 3 findings as false positives, opened upstream issue for the other 9.
 
 ## Summary
 
@@ -65,6 +69,4 @@
 | lamindb | 🟡 MEDIUM | 5 | ✅ | 32.7s |
 | open-notebook | 🟡 MEDIUM | 18 | ✅ | 21.2s |
 | parallel-web | 🟡 MEDIUM | 5 | ✅ | 29.7s |
-| pennylane | 🟡 MEDIUM | 5 | ✅ | 24.4s |
-| perplexity-search | 🟡 MEDIUM | 6 | ✅ | 24.3s |
-| phylogenetics | 🟡 MEDIUM | 9 | ✅ | 2
+| pennylan
