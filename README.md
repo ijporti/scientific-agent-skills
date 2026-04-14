@@ -17,9 +17,9 @@ A comprehensive collection of **134 ready-to-use scientific and research skills*
 
 > **Personal note:** I'm primarily using this fork for the cheminformatics and proteomics skills. If you found this repo the same way I did (looking for a way to automate literature-backed drug discovery workflows), the [K-Dense BYOK](https://github.com/K-Dense-AI/k-dense-byok) desktop app is genuinely the fastest way to get started.
 
+> **My setup:** Running this with Cursor + Claude Sonnet 4. The RDKit-based cheminformatics skills and the UniProt/PDB database integrations are the ones I use most. For proteomics workflows specifically, I found it helpful to load the `proteomics` and `cheminformatics` skill sets together — they complement each other well for ligand-protein interaction tasks.
+
 ---
 
 These skills enable your AI agent to seamlessly work with specialized scientific libraries, databases, and tools across multiple scientific domains. While the agent can use any Python package or API on its own, these explicitly defined skills provide curated documentation and examples that make it significantly stronger and more reliable for the workflows below:
-- 🧬 Bioinformatics & Genomics - Sequence analysis, single-cell RNA-seq, gene regulatory networks, variant annotation, phylogenetic analysis
-- 🧪 Cheminformatics & Drug Discovery - Molecular property prediction, virtual screening, ADMET analysis, molecular docking, lead optimization
-- 🔬 Proteomics & Mass Spectrometry - LC-MS/MS processing, peptide identification, spectral matching, protein qua
+- 🧬 Bioinformatics & Genomics - Sequence analysis, single
