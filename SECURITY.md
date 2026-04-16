@@ -12,6 +12,7 @@
 > **Progress log:**
 > - 2026-04-12: Started reviewing `literature-review` findings. Most issues appear to be around unsafe URL fetching and unvalidated external API calls.
 > - 2026-04-14: `scientific-writing` — flagged 3 findings as false positives, opened upstream issue for the other 9.
+> - 2026-04-17: `citation-management` — beginning review. 13 findings, mostly looks like unvalidated DOI resolution and unsafe redirect following. Will cross-reference with `literature-review` patterns.
 
 ## Summary
 
@@ -62,11 +63,4 @@
 | datamol | 🟡 MEDIUM | 5 | ✅ | 31.8s |
 | depmap | 🟡 MEDIUM | 4 | ✅ | 24.9s |
 | dnanexus-integration | 🟡 MEDIUM | 3 | ✅ | 25.9s |
-| exploratory-data-analysis | 🟡 MEDIUM | 5 | ✅ | 37.4s |
-| histolab | 🟡 MEDIUM | 4 | ✅ | 25.5s |
-| imaging-data-commons | 🟡 MEDIUM | 5 | ✅ | 30.1s |
-| labarchive-integration | 🟡 MEDIUM | 8 | ✅ | 35.4s |
-| lamindb | 🟡 MEDIUM | 5 | ✅ | 32.7s |
-| open-notebook | 🟡 MEDIUM | 18 | ✅ | 21.2s |
-| parallel-web | 🟡 MEDIUM | 5 | ✅ | 29.7s |
-| pennylan
+| exploratory-data-analysis | 🟡 MEDIUM | 5 | ✅ | 37
