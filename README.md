@@ -19,7 +19,8 @@ A comprehensive collection of **134 ready-to-use scientific and research skills*
 
 > **My setup:** Running this with Cursor + Claude Sonnet 4. The RDKit-based cheminformatics skills and the UniProt/PDB database integrations are the ones I use most. For proteomics workflows specifically, I found it helpful to load the `proteomics` and `cheminformatics` skill sets together — they complement each other well for ligand-protein interaction tasks.
 
+> **Skill sets I load by default:** `proteomics`, `cheminformatics`, `literature` (for PubMed/ChEMBL cross-referencing). I keep `genomics` and `imaging` disabled since I don't use them — trimming the active skill list noticeably reduces context overhead in Cursor.
+
 ---
 
-These skills enable your AI agent to seamlessly work with specialized scientific libraries, databases, and tools across multiple scientific domains. While the agent can use any Python package or API on its own, these explicitly defined skills provide curated documentation and examples that make it significantly stronger and more reliable for the workflows below:
-- 🧬 Bioinformatics & Genomics - Sequence analysis, single
+These skills enable your AI agent to seamlessly work with 
